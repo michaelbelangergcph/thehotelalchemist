@@ -141,8 +141,10 @@ function App() {
           <p className="eyebrow">Hotel Commercial Optimization</p>
           <h1 className="hero__headline">Transforming Hotel Performance into Lasting Value</h1>
           <p className="hero__sub">
-            Commercial strategy, revenue performance and owner advisory for independent hotels,
-            resorts and small portfolios.
+           Alchemy is the art of transformation: turning ordinary materials into something rare and valuable.
+           At The Hotel Alchemist, we believe every hotel holds untapped potential. Hidden within its people, positioning, systems, data and guest experience are the ingredients for stronger performance.
+          We combine the art of hospitality with the science of commercial optimization to transform those ingredients into measurable value: more revenue, stronger profitability and a more distinctive, resilient hotel.
+          We do not manufacture value from nothing. We uncover it, refine it and bring it to life.
           </p>
           <a className="button button--primary" href="#contact">
             {CTA_TEXT}
