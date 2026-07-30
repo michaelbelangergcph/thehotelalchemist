@@ -212,7 +212,7 @@ function App() {
             Share a few details about your property and objectives, and we will propose the
             most appropriate starting point.
           </p>
-          <a className="button button--primary" href="mailto:hello@thehotelalchemist.com">
+          <a className="button button--primary" href="mailto:michaelbelanger@gcphospitality.com">
             {CTA_TEXT}
           </a>
         </Reveal>
