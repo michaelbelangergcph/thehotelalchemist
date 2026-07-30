@@ -141,7 +141,7 @@ function App() {
           <p className="eyebrow">Hotel Commercial Optimization</p>
           <h1 className="hero__headline">Transforming Hotel Performance into Lasting Value</h1>
           <p className="hero__sub">
-           Alchemy is the art of transformation: turning ordinary materials into something rare and valuable. <br>
+           Alchemy is the art of transformation: turning ordinary materials into something rare and valuable. <p>
            
             At The Hotel Alchemist, we believe every hotel holds untapped potential. Hidden within its people, positioning, systems, data and guest experience are the ingredients for stronger performance.<br>
           We combine the art of hospitality with the science of commercial optimization to transform those ingredients into measurable value: more revenue, stronger profitability and a more distinctive, resilient hotel.<br>
@@ -212,9 +212,9 @@ function App() {
             Your hotel already contains the ingredients for greater value.
           </h2>
           <p className="closing__copy">
-            For centuries, alchemists searched for a way to transform ordinary metals into gold. But alchemy was never only about precious metal. It was about transformation: understanding the hidden properties of raw materials, combining art with science, and turning potential into something exceptional.<br>
+            For centuries, alchemists searched for a way to transform ordinary metals into gold. But alchemy was never only about precious metal. It was about transformation: understanding the hidden properties of raw materials, combining art with science, and turning potential into something exceptional.<p>
 
-The Hotel Alchemist applies that same philosophy to hospitality.<br>
+The Hotel Alchemist applies that same philosophy to hospitality.<p>
 
 Every hotel contains valuable ingredients: its location, people, brand, guest experience, data, systems, reputation and market position. Yet these elements do not always work together effectively. Revenue may be leaking through inefficient distribution. Technology may be underused. The positioning may no longer reflect the market. Commercial teams may be working hard without the right information, structure or tools.
 
