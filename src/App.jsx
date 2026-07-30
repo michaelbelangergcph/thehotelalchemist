@@ -141,11 +141,11 @@ function App() {
           <p className="eyebrow">Hotel Commercial Optimization</p>
           <h1 className="hero__headline">Transforming Hotel Performance into Lasting Value</h1>
           <p className="hero__sub">
-           <p>Alchemy is the art of transformation: turning ordinary materials into something rare and valuable. </p>
+           <p> Alchemy is the art of transformation: turning ordinary materials into something rare and valuable. </p><p></p>
            
-            <p>At The Hotel Alchemist, we believe every hotel holds untapped potential. Hidden within its people, positioning, systems, data and guest experience are the ingredients for stronger performance.<br>
-          We combine the art of hospitality with the science of commercial optimization to transform those ingredients into measurable value: more revenue, stronger profitability and a more distinctive, resilient hotel.<br>
-          We do not manufacture value from nothing. We uncover it, refine it and bring it to life.<br>
+            <p> At The Hotel Alchemist, we believe every hotel holds untapped potential. Hidden within its people, positioning, systems, data and guest experience are the ingredients for stronger performance.
+          We combine the art of hospitality with the science of commercial optimization to transform those ingredients into measurable value: more revenue, stronger profitability and a more distinctive, resilient hotel.
+          We do not manufacture value from nothing. We uncover it, refine it and bring it to life.</p> 
           </p>
           <a className="button button--primary" href="#contact">
             {CTA_TEXT}
