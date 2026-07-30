@@ -141,11 +141,11 @@ function App() {
           <p className="eyebrow">Hotel Commercial Optimization</p>
           <h1 className="hero__headline">Transforming Hotel Performance into Lasting Value</h1>
           <p className="hero__sub">
-           Alchemy is the art of transformation: turning ordinary materials into something rare and valuable.
+           Alchemy is the art of transformation: turning ordinary materials into something rare and valuable. <br>
            
-            At The Hotel Alchemist, we believe every hotel holds untapped potential. Hidden within its people, positioning, systems, data and guest experience are the ingredients for stronger performance.
-          We combine the art of hospitality with the science of commercial optimization to transform those ingredients into measurable value: more revenue, stronger profitability and a more distinctive, resilient hotel.
-          We do not manufacture value from nothing. We uncover it, refine it and bring it to life.
+            At The Hotel Alchemist, we believe every hotel holds untapped potential. Hidden within its people, positioning, systems, data and guest experience are the ingredients for stronger performance.<br>
+          We combine the art of hospitality with the science of commercial optimization to transform those ingredients into measurable value: more revenue, stronger profitability and a more distinctive, resilient hotel.<br>
+          We do not manufacture value from nothing. We uncover it, refine it and bring it to life.<br>
           </p>
           <a className="button button--primary" href="#contact">
             {CTA_TEXT}
@@ -212,9 +212,9 @@ function App() {
             Your hotel already contains the ingredients for greater value.
           </h2>
           <p className="closing__copy">
-            For centuries, alchemists searched for a way to transform ordinary metals into gold. But alchemy was never only about precious metal. It was about transformation: understanding the hidden properties of raw materials, combining art with science, and turning potential into something exceptional.
+            For centuries, alchemists searched for a way to transform ordinary metals into gold. But alchemy was never only about precious metal. It was about transformation: understanding the hidden properties of raw materials, combining art with science, and turning potential into something exceptional.<br>
 
-The Hotel Alchemist applies that same philosophy to hospitality.
+The Hotel Alchemist applies that same philosophy to hospitality.<br>
 
 Every hotel contains valuable ingredients: its location, people, brand, guest experience, data, systems, reputation and market position. Yet these elements do not always work together effectively. Revenue may be leaking through inefficient distribution. Technology may be underused. The positioning may no longer reflect the market. Commercial teams may be working hard without the right information, structure or tools.
 
@@ -225,7 +225,7 @@ Like the alchemist turning base metals into gold, we transform overlooked potent
 
 We do not apply a single formula to every property. Every hotel has its own character, market and commercial chemistry. Our role is to find the right combination of ingredients and turn them into something more valuable, more resilient and uniquely its own.
 
-The Hotel Alchemist: transforming hotel potential into lasting value.
+The Hotel Alchemist: transforming hotel potential into lasting value.<br>
 
             
             Share a few details about your property and objectives, and we will propose the
